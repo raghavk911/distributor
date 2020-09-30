@@ -8,7 +8,7 @@
 
 *You can learn more about Distributor's features at [DistributorPlugin.com](https://distributorplugin.com).*
 
-_Note:_ The latest stable version of the plugin is the _stable_ branch. [Download the stable branch]((https://github.com/10up/distributor/archive/stable.zip)) if you are intending to use the plugin in production.
+_Note:_ The latest stable version of the plugin is a _stable_ branch. [Download the stable branch]((https://github.com/10up/distributor/archive/stable.zip)) if you are intending to use the plugin in production.
 
 ## Table of Contents
 * [Features](#features)
@@ -27,9 +27,9 @@ _Note:_ The latest stable version of the plugin is the _stable_ branch. [Downloa
 
 ## Features
 
-Distributor supports safe, SEO-friendly content reuse and sharing via "pushing" and "pulling".
+Distributor does support safe, SEO-friendly content reuse and sharing via "pushing" and "pulling".
 
-While logged in and editing or viewing any single post (or custom post type) that can be distributed, a `Distributor` admin bar item will appear, that will facilitate sharing ("pushing") that content to any `connection`.
+While logged in and editing or viewing any single post (or custom post type) that can be distributed, a `Distributor` admin bar item will have appeared, that will facilitate sharing ("pushing") that content to any `connection`.
 
 <a href="http://distributorplugin.com/"><img src="https://distributorplugin.com/wp-content/themes/distributor-theme/assets/img/push-screenshot.jpg" alt="Push the content you’re editing or viewing to any of your other sites from the admin bar" width="600"></a>
 
@@ -37,7 +37,7 @@ In the admin dashboard, a top level Distributor menu item links to the "pull" sc
 
 <a href="http://distributorplugin.com/"><img src="https://distributorplugin.com/wp-content/themes/distributor-theme/assets/img/pull-screenshot.jpg" alt="Pull content from another site from the Distributor admin menu" width="600"></a>
 
-Content this is distributed (via Push or Pull) is connected to the original.  Reposted content receives updates from the original, canonical source automatically.
+Content this is being distributed (via Push or Pull) and will have connected to the original.  Reposted content receives updates from the original, canonical source automatically.
 
 <a href="http://distributorplugin.com/"><img alt="Distributor intuitively presents the origin and status of any reused content" class="browser-frame" src="https://distributorplugin.com/wp-content/themes/distributor-theme/assets/img/syndicated-screenshot.jpg" width="600"></a>
 
@@ -47,7 +47,7 @@ There are two connection types: `internal` and `external`.
 
 ### Extendability
 
-Distributor is built with the same extensible approach as WordPress itself, with [fully documented hooks and filters](https://10up.github.io/distributor/) to customize its default behavior and create custom distribution workflows.  You can even create connections to other platforms.
+Distributor is built with the same extensible approach as WordPress itself, with [fully documented hooks and filters](https://10up.github.io/distributor/) to customize its default behavior and create custom distribution workflows.  You could able to even create connections to other platforms.
 
 ## Requirements
 
